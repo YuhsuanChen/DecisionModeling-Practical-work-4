@@ -1,5 +1,6 @@
 # DecisionModeling-Practical-work-4
-COLLABORATIVE FILTERING AS A MODEL OF GROUP DECISION-MAKING
+COLLABORATIVE FILTERING AS A MODEL OF GROUP DECISION-MAKING 
+Practical work of https://www.lamsade.dauphine.fr/~mayag/Practical_Work_collabrative_filtering.pdf
 
 
 For answer Question 1 & 2, use the following files:
